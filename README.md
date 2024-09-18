@@ -27,6 +27,12 @@ La landing page tiene como objetivo proporcionar información clara y concisa so
 - **Optimización para dispositivos móviles**: La página ha sido testeada en múltiples dispositivos para asegurar una experiencia sin fallos.
 - **Animaciones suaves**: Las animaciones CSS mejoran la interactividad y captan la atención de los usuarios sin ser intrusivas.
 
+## 🌐 Enlace a la Web
+
+Puedes acceder a la landing page de la pediatra Vianel Ventura aquí:
+
+👉 [**Visitar sitio web**](hhttps://dravianelventura.azurewebsites.net/) 👈
+
 ## 📷 Capturas de Pantalla
 
 
