@@ -31,7 +31,7 @@ La landing page tiene como objetivo proporcionar información clara y concisa so
 
 Puedes acceder a la landing page de la pediatra Vianel Ventura aquí:
 
-👉 [**Visitar sitio web**](hhttps://dravianelventura.azurewebsites.net/) 👈
+👉 [**Visitar sitio web**](https://dravianelventura.azurewebsites.net/) 👈
 
 ## 📷 Capturas de Pantalla
 
